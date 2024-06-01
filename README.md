@@ -3,24 +3,12 @@
 
 ***Instrucciones para ejecutarlo:***
 
-1. **Clonar el Repositorio:**
+1. **Descarga los archivos .ipynb:**
 
-   - Abre tu terminal o línea de comandos.
-   - Navega al directorio donde deseas guardar la aplicación.
-   - Ejecuta el siguiente comando para clonar el repositorio:
-
-     ```
-     git clone https://github.com/DerlyYanneth/Prototipo_4Emociones
-     ```
-
-   - Esto descargará una copia local del repositorio en tu máquina.
-
-2. **Instala las dependencias del prototipo:**
-     ```
-     pip install -r requirements.txt
-     ```
-3. **Ejecuta la aplicación utilizando el siguiente comando:**
-   ```
-   python -m uvicorn --reload
-    ```
-   **Ahora disfruta de la Aplicación de Detección de Emociones escribiendo una frase en la interfaz e inmediatamente te detectará tu emoción!!**
+   - Abre tu googleColab.
+   - Sube el Modelo_Emociones.ipynb.
+   - Abre tu googleColab.
+   - Sube el Modelo_Emociones_Prueba.ipynb.
+   - sube a la carpeta  "modelo_entrenado_sentimientos.h5"
+   
+   **Ahora disfruta de la Aplicación de Detección de Emociones en tu GoogleColab ejecuta los códigos y finalmente subes una imagen la cual te detectará tu emoción!!**
