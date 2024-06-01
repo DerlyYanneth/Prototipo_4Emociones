@@ -6,7 +6,7 @@
 1. **Descarga los archivos .ipynb:**
 
    - Abre tu googleColab.
-   - Sube el Modelo_Emociones.ipynb.
+   - Sube el Modelo_Emociones.ipynb.(Este es el proceso para entrenar el modelo realmente no es necesario que lo subas, solo por si quieres ver como fue el entrenamiento)
    - Abre tu googleColab.
    - Sube el Modelo_Emociones_Prueba.ipynb.
    - sube a la carpeta  "modelo_entrenado_sentimientos.h5"
